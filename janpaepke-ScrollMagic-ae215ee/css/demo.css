@@ -144,7 +144,7 @@ h3 {
 /*START*/
 
 
-#intro {
+#intro1 {
     display: block;
     width: 650px;
     height: 400px;
@@ -155,24 +155,24 @@ h3 {
     transform: translate(-50%, -60%);
     position: absolute;
 }
-#intro h1 {
+#intro1 h1 {
     position: absolute;
     text-align: center;
     width: 100%;
     top: 135px;
     margin: 0;
 }
-#intro h1 span {
+#intro1 h1 span {
     position: relative;
 }
-#intro .tophat {
+#intro1 .tophat {
     position: absolute;
     bottom: 110px;
     left: 50%;
     margin-left: -144px;
     margin-bottom: 50px;
 }
-#intro .sparkpoint {
+#intro1 .sparkpoint {
     top: 60px;
     left: 380px;
 }
